@@ -76,6 +76,4 @@ Here are some ideas to get you started:
 
 
 -----
-Credits: [ferdiozer](https://github.com/ferdiozer)
 
-Last Edited on: 18/08/2021
